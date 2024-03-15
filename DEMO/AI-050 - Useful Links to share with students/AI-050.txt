@@ -1,0 +1,52 @@
+Azure Open AI Service AI-050 Useful links
+
+Getting AOAI access
+https://customervoice.microsoft.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR7en2Ais5pxKtso_Pz4b1_xUOFA5Qk1UWDRBMjg0WFhPMkIzTzhKQ1dWNyQlQCN0PWcu
+
+Key information about AOAI
+
+https://learn.microsoft.com/en-us/azure/ai-services/openai/overview
+
+Pricing
+https://azure.microsoft.com/fr-fr/pricing/details/cognitive-services/openai-service/
+
+Quickstarts
+
+https://learn.microsoft.com/en-us/azure/ai-services/openai/quickstart?tabs=command-line&pivots=programming-language-csharp
+https://learn.microsoft.com/en-us/azure/ai-services/openai/chatgpt-quickstart?tabs=command-line&pivots=programming-language-csharp
+https://learn.microsoft.com/en-us/azure/ai-services/openai/dall-e-quickstart?tabs=command-line&pivots=programming-language-csharp
+https://learn.microsoft.com/en-us/azure/ai-services/openai/use-your-data-quickstart?tabs=command-line&pivots=programming-language-csharp
+https://learn.microsoft.com/en-us/azure/ai-services/openai/whisper-quickstart?tabs=command-lin
+
+AOAI Available models list today
+
+https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/models
+
+Security
+
+Customer Managed Keys form (to encrypt data with your keys) https://aka.ms/cogsvc-cmk
+Network filtering using VPN 
+
+REST API Documentation
+
+REST API for Completions and Embeddings
+https://learn.microsoft.com/en-us/azure/ai-services/openai/reference
+
+REST API for fine-tuning
+https://learn.microsoft.com/en-us/rest/api/cognitiveservices/azureopenaistable/fine-tunes
+
+REST API for resource creation and deployment
+https://learn.microsoft.com/en-us/rest/api/cognitiveservices/accountmanagement/deployments/create-or-update?tabs=HTTP
+
+.NET Documentation
+https://learn.microsoft.com/en-us/dotnet/api/azure.ai.openai?view=azure-dotnet-preview&preserve-view=true
+
+Python Documentation - switch your code from OpenAI to Azure OpenAI
+https://learn.microsoft.com/en-us/azure/ai-services/openai/how-to/switching-endpoints
+
+Java Documentation
+https://learn.microsoft.com/en-us/java/api/com.azure.ai.openai?view=azure-java-preview&preserve-view=true
+
+AI-050 Survey
+https://forms.office.com/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR2dnUk_rE69AhnJUf0MCZWBUNDlBRzlTQVZHN1AySlZUNkJZQzFBVERCNy4u
+
