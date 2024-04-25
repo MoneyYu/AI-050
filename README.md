@@ -1,9 +1,19 @@
-# AI-050 Reference
+---
+image: https://learn.microsoft.com/en-us/training/achievements/develop-ai-solutions-azure-openai.svg
+tags: AI-050, Reference
+GA: G-DXYJBX6BH8
+---
 
-## Contact
-- Money Yu
-    - Mail: [Money.Yu@microsoft.com](mailto:Money.Yu@microsoft.com)
-    - LinkedIn: [@abc12207](https://www.linkedin.com/in/abc12207/)
+# AI-050 Reference
+## Course
+:::success
+Date: 20240425
+Course ID: 60532
+:::
+
+:::info
+Course Survey: [https://aka.ms/ai050survey](https://aka.ms/ai050survey)
+:::
 
 ## Course Materials
 [Course AI-050 English version](https://learn.microsoft.com/en-us/training/courses/ai-050t00#course-syllabus)
@@ -16,7 +26,7 @@
 ## Lab
 ### Skillable lab system
 [ESI Labs](https://aka.ms/esilab)
-> Training key: E74FBD1284E74E6E
+> Training key: 855F1C8AF6694E19
 > > Only need to redeem once
 > > Valid for 6 months
 
@@ -24,6 +34,7 @@
 
 ### Instruction
 [AI-050 Labs EN](https://microsoftlearning.github.io/mslearn-openai/)
+[AI-050 Labs CN](https://github.com/MicrosoftLearning/mslearn-openai.zh-cn/tree/main/Instructions/Labs)
 [AI-050 Lab files](https://github.com/MicrosoftLearning/mslearn-openai/archive/refs/heads/main.zip)
 
 <!--
@@ -46,7 +57,9 @@
 
 [OpenAI Tokenizer](https://platform.openai.com/tokenizer)
 
-[What is provisioned throughput(TPU)?](https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/provisioned-throughput)
+[Tokens-Per-Minute (TPM)](https://learn.microsoft.com/zh-cn/azure/ai-services/openai/how-to/quota?tabs=rest#introduction-to-quota)
+
+[What is provisioned throughput(PTU)?](https://learn.microsoft.com/en-us/azure/ai-services/openai/concepts/provisioned-throughput)
 
 [Azure OpenAI Service quotas and limits](https://learn.microsoft.com/en-us/azure/ai-services/openai/quotas-limits)
 
@@ -107,3 +120,8 @@
 
 ## Credential
 [AI-050 Applied Skills Credential](https://learn.microsoft.com/en-us/credentials/applied-skills/develop-generative-ai-solutions-with-azure-openai-service/)
+
+## Contact
+- Money Yu
+    - Mail: [Money.Yu@microsoft.com](mailto:Money.Yu@microsoft.com)
+    - LinkedIn: [@abc12207](https://www.linkedin.com/in/abc12207/)
